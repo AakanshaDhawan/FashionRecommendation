@@ -1,8 +1,4 @@
-# Scientific Programming in Python – submission 3
-
 ### Project title: H&M Personalized Fashion Recommendations
-
-### Student name: Aakansha Dhawan
 
 ## How to compile the code:
   Step 1) Go to the Kaggle page and download the data(articles.csv, customer.csv, transaction_train.csv)
