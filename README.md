@@ -1,6 +1,6 @@
 ### Project title: H&M Personalized Fashion Recommendations
 
-## How to compile the code:
+## How to compile the code: 
   Step 1) Go to the Kaggle page and download the data(articles.csv, customer.csv, transaction_train.csv)
   
   Step 2) Keep all the files in one folder
