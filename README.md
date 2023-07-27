@@ -11,7 +11,7 @@
   
   Step 3) Run the Python notebooks in the following sequence:
   
-            a)data analysis and extraction.ipynb : contains analysis regarding the data
+            a)data analysiss and extraction.ipynb : contains analysis regarding the data
             b) collaborative filtering.ipynb : contains user-based filtering
             c) item-based collaborative filter.ipynb : shows how item-based filtering works
             d) content-based filtering.ipynb : content-based filter is implemented here
